@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3Uploader", "S3Uploader\S3Uploader.csproj", "{FD489207-6291-4804-AD9D-8DC429CE0FD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD489207-6291-4804-AD9D-8DC429CE0FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD489207-6291-4804-AD9D-8DC429CE0FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD489207-6291-4804-AD9D-8DC429CE0FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD489207-6291-4804-AD9D-8DC429CE0FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E95FC7F-3491-4320-B28C-913C902DA83C}
+	EndGlobalSection
+EndGlobal
